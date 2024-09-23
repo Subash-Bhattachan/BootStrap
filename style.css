@@ -1,0 +1,46 @@
+body {
+    background-color: #353831 !important;
+}
+
+.container {
+    border: 10 px solid blue;
+  
+}
+
+
+.col-3 {
+    
+    
+    border: 1px solid green;
+    padding: 10px;
+      
+}
+
+
+
+
+
+/* 
+#nav {
+    background-color: red;
+    
+    display: flex;
+    flex-direction: row;
+    position: fixed !important;
+    width: 100%;
+    height: 50px;
+    
+
+} */
+/* 
+.main_container {
+    display: flex;
+    width: 1000px;
+    height: 2420px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: beige;
+    align-content: space-evenly;
+    margin: auto;
+    margin-top: 60px;
+} */
