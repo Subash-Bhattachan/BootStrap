@@ -4,7 +4,7 @@ body {
 
 .container {
     border: 10 px solid blue;
-    background-color: light rgb(163, 146, 146) !important;
+    background-color: #f6f6f6;
 
 }
 
@@ -12,6 +12,7 @@ body {
     height: 800px;
     margin-top: 40px;
     margin-bottom: 40px;
+
 }
 
 .col-5 {
@@ -20,7 +21,6 @@ body {
     margin-bottom: 40px;
     display: flex;
     justify-content: space-between;
-    /* flex-flow: column wrap; */
     flex-wrap: wrap;
 
 }
@@ -29,6 +29,10 @@ body {
 .col-4 {
     height: 240px;
     width: 47%;
+    margin-bottom: 20px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 
@@ -36,13 +40,19 @@ body {
     height: 110px;
     width: 99%;
     margin-bottom: 20px;
+    font-size: 12px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 .col-4b {
     height: 240px;
     width: 99%;
     margin-bottom: 20px;
-
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 
@@ -50,12 +60,16 @@ body {
     height: 240px;
     width: 100%;
     margin-bottom: 20px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 .col-4d {
     height: 110px;
     width: 48%;
     margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 
@@ -63,6 +77,9 @@ body {
     height: 25%;
     width: 100%;
     margin-bottom: 20px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 
@@ -70,19 +87,28 @@ body {
     height: 71%;
     width: 48%;
     margin-bottom: 20px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 
 .col-4g {
-    height: 56%;
+    height: 11%;
     width: 100%;
     margin-bottom: 20px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 .col-4h {
     height: 40%;
     width: 100%;
     margin-bottom: 20px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 5px 10px lightgrey;
 }
 
 footer {
@@ -91,4 +117,3 @@ footer {
     padding: 20px;
 
 }
-
